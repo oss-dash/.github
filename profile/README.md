@@ -37,3 +37,14 @@ Sources live in [oss-dash](https://github.com/oss-dash) and [oss-dash-kernel](ht
 | [proprietary_vendor_xiaomi_dash](https://gitlab.com/oss-dash/proprietary_vendor_xiaomi_dash) | Proprietary vendor blobs for `dash` |
 | [proprietary_vendor_xiaomi_dash-miuicamera](https://gitlab.com/oss-dash/proprietary_vendor_xiaomi_dash-miuicamera) | Proprietary blobs for the MIUI camera port |
 | [android_prebuilts_clang_host_linux-x86_clang-r510928](https://gitlab.com/oss-dash/android_prebuilts_clang_host_linux-x86_clang-r510928) | Prebuilt Clang toolchain |
+
+## Credits
+
+Thanks to the people and groups behind this bringup:
+
+- [Content-Creation-Club](https://github.com/Content-Creation-Club)
+- [YorokobiMaster](https://github.com/YorokobiMaster)
+- [Hexaboo](https://github.com/Hexaboo)
+- [Hikari-Soni](https://github.com/Hikari-Soni)
+- [Mashopy](https://github.com/Mashopy)
+- [xyzuniverse](https://github.com/xyzuniverse)
